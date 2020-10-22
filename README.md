@@ -1,3 +1,3 @@
-# Gravity machine data analysis 
+# Squid data analysis 
 
-This repo contains python and jupyter notebook scripts used for Gravity Machine tracking data analysis. 
+This repo contains python and jupyter notebook scripts used for Squid tracking data analysis. 
